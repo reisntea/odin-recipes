@@ -1,0 +1,38 @@
+*   {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana;
+    box-sizing: border-box;
+
+}
+
+.heading    {
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.small-heading {
+    text-align: center;
+    background-color: lightgray;
+}
+
+button {
+    background-color: white; 
+    border: 2px solid;
+    border-color: black;
+    color: black;
+    width: 200px;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+
+}
+
+img {
+    border: 2px solid;
+    border-color: black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
